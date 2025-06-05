@@ -6,7 +6,7 @@ A Flask-based RESTful API for managing personal expenses, with user authenticati
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/boluwatife-py/ExpenseTrackerApi.git
    cd expense_tracker
    ```
 
